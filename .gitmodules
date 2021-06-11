@@ -15,3 +15,9 @@
 [submodule "talha/talha/themes/contrast-hugo"]
 	path = talha/talha/themes/contrast-hugo
 	url = https://github.com/niklasbuschmann/contrast-hugo.git
+[submodule "talha/themes/Niello"]
+	path = talha/themes/Niello
+	url = https://github.com/guangmean/Niello.git
+[submodule "talha/themes/potato-dark"]
+	path = talha/themes/potato-dark
+	url = https://github.com/surajmandalcell/potato-dark
