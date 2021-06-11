@@ -1,0 +1,14 @@
+[submodule "talha/public"]
+	path = talha/public
+	url = https://github.com/Talha-Altair/talha.github.io.git
+	branch = main
+[submodule "talha/public2"]
+	path = talha/public2
+	url = git@github.com:Talha-Altair/talha.github.io.git
+	branch = main
+[submodule "talha/themes/freshstart"]
+	path = talha/themes/freshstart
+	url = https://github.com/rz3n/hugo-theme-freshstart.git
+[submodule "talha/themes/hugo-tanka"]
+	path = talha/themes/hugo-tanka
+	url = https://github.com/nanxstats/hugo-tanka.git
