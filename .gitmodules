@@ -12,3 +12,6 @@
 [submodule "talha/themes/hugo-tanka"]
 	path = talha/themes/hugo-tanka
 	url = https://github.com/nanxstats/hugo-tanka.git
+[submodule "talha/talha/themes/contrast-hugo"]
+	path = talha/talha/themes/contrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo.git
